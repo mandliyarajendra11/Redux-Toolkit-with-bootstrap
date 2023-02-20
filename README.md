@@ -1,3 +1,13 @@
+# this project made with redux-toolkit and bootstrap 5
+
+# have two branches: master and gh-pages. The master branch will contain the React app's source code, while the gh-pages branch will contain the distributable version of the React app. 
+
+# deploy
+In your web browser, navigate to the GitHub repository gh-pages
+Above the code browser, click on the tab labeled "Settings"
+In the sidebar, in the "Code and automation" section, click on "Pages"
+ Click on `visit site` button
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
